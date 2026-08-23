@@ -266,8 +266,8 @@ img {
 .profile-image {
     position: relative;
     z-index: 2;
-    width: 390px;
-    max-height: 500px;
+    width: 396vw;
+    max-height: 396px;
     object-fit: contain;
     filter: drop-shadow(0 20px 30px rgba(0, 0, 0, 0.5));
 }
